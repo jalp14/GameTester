@@ -2,7 +2,6 @@
 //  main.cpp
 //  GameTester
 //
-//  Created by Jalp on 21/11/2018.
 //  Copyright © 2018 JDC0rp. All rights reserved.
 //
 
